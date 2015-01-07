@@ -5,7 +5,7 @@
     name="Blank Activity Custom"
     minApi="7"
     minBuildApi="14"
-    description="Creates a new blank activity with an action bar.">
+    description="Creates a new blank activity with an action bar. And Creates Java package architecture by Best practices in Android development. See also https://github.com/futurice/android-best-practices.">
 
     <category value="Activity" />
     <formfactor value="Mobile" />
