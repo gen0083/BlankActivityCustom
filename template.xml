@@ -66,7 +66,14 @@
         name="Package name"
         type="string"
         constraints="package"
-        default="com.mycompany.myapp" />
+	default="com.mycompany.myapp" />
+
+    <parameter
+	    id="author"
+	    name="Author"
+	    type="string"
+	    default="Gen"
+	    help="This uses javadoc @autohr in package-info.java." />
 
     <!-- 128x128 thumbnails relative to template.xml -->
     <thumbs>
