@@ -13,3 +13,9 @@ Contents > plugins > android > lib > templates > activitiesディレクトリへ
 当該ディレクトリで``git clone https://github.com/gen0083/BlankActivityCustom``を実行。
 
 その後Android Studioを再起動すれば、新規プロジェクト作成ウィザードでActivityを選択するところに、Blank Activity Customが追加されます。
+
+## Android Studioのバージョンアップについて
+
+このテンプレートを導入している場合、Android Studioのバージョンアップができません。
+
+Android Studioをバージョンアップする際は、追加したテンプレートを手動で削除してください。
